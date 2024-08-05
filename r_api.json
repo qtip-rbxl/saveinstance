@@ -11,6 +11,6 @@
     },
     "services": {
         "Workspace": ["Gravity", "GlobalWind", "StreamingEnabled", "Terrain", "AirDensity", "AllowThirdPartySales"],
-        "Lighting": ["Ambient", "Brightness", "ClockTime", "ColorShift_Bottom", "ColorShift_Top", "ExposureCompensation", "FogColor", "FogEnd", "FogStart", "GeographicalLatitude", "GlobalShadows", "OutdoorAmbient", "ShadowSoftness", "Technology", "TimeOfDay"]
+        "Lighting": ["Ambient", "Brightness", "ClockTime", "ColorShift_Bottom", "ColorShift_Top", "FogColor", "FogEnd", "FogStart", "GeographicalLatitude", "GlobalShadows", "OutdoorAmbient", "ShadowSoftness", "Technology", "TimeOfDay"]
     }
 }
