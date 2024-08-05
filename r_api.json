@@ -10,7 +10,7 @@
         "Sky": ["CelestialBodiesShow", "MoonAngularSize", "MoonTextureId", "SkyboxBk", "SkyboxDn", "SkyboxFt", "SkyboxLf", "SkyboxRt", "SkyboxUp", "StarCount", "SunAngularSize", "SunTextureId"]
     },
     "services": {
-        "Workspace": ["Gravity", "GlobalWind", "RejectCharacterDeletions", "StreamingEnabled", "Terrain", "FallenPartsDestroyHeight", "AirDensity", "AvatarUnificationMode", "AllowThirdPartySales"],
+        "Workspace": ["Gravity", "GlobalWind", "RejectCharacterDeletions", "StreamingEnabled", "Terrain", "FallenPartsDestroyHeight", "AirDensity", "AllowThirdPartySales"],
         "Lighting": ["Ambient", "Brightness", "ClockTime", "ColorShift_Bottom", "ColorShiftTop", "ExposureCompensation", "FogColor", "FogEnd", "FogStart", "GeographicalLatitude", "GlobalShadows", "OutdoorAmbient", "ShadowSoftness", "Technology", "TimeOfDay"]
     }
 }
