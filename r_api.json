@@ -1,16 +1,16 @@
 {
 	"objects": {
-		"BasePart": {"BrickColor", "Shape", "Size", "Position", "Rotation", "Transparency", "Material", "CanCollide", "Anchored"},
-		"Decal": {"Color3", "Texture", "Transparency", "Face", "ZIndex"},
-		"SpecialMesh": {"MeshType", "MeshId", "TextureId", "Offset", "Scale", "VertexColor"},
-		"MeshPart": {"DoubleSided", "MeshId", "RenderFidelity", "TextureID", "MeshSize", "FluidFidelity", "CollisionFidelity"},
-		"Pants": {"PantsTemplate", "Color3"},
-		"Shirt": {"ShirtTemplate", "Color3"},
-		"ShirtGraphic": {"Color3", "Graphic"},
-		"Sky": {"CelestialBodiesShow", "MoonAngularSize", "MoonTextureId", "SkyboxBk", "SkyboxDn", "SkyboxFt", "SkyboxLf", "SkyboxRt", "SkyboxUp", "StarCount", "SunAngularSize", "SunTextureId"}
+		"BasePart": ["BrickColor", "Shape", "Size", "Position", "Rotation", "Transparency", "Material", "CanCollide", "Anchored"],
+		"Decal": ["Color3", "Texture", "Transparency", "Face", "ZIndex"],
+		"SpecialMesh": ["MeshType", "MeshId", "TextureId", "Offset", "Scale", "VertexColor"],
+		"MeshPart": ["DoubleSided", "MeshId", "RenderFidelity", "TextureID", "MeshSize", "FluidFidelity", "CollisionFidelity"],
+		"Pants": ["PantsTemplate", "Color3"],
+		"Shirt": ["ShirtTemplate", "Color3"],
+		"ShirtGraphic": ["Color3", "Graphic"],
+		"Sky": ["CelestialBodiesShow", "MoonAngularSize", "MoonTextureId", "SkyboxBk", "SkyboxDn", "SkyboxFt", "SkyboxLf", "SkyboxRt", "SkyboxUp", "StarCount", "SunAngularSize", "SunTextureId"],
 	},
 	"services": {
-		"Workspace": {"Gravity", "GlobalWind", "FluidForces", "RejectCharacterDeletions", "StreamingEnabled", "Terrain", "FallenPartsDestroyHeight", "AirDensity", "AvatarUnificationMode", "AllowThirdPartySales"},
-		"Lighting": {"Ambient", "Brightness", "ClockTime", "ColorShift_Bottom", "ColorShiftTop", "ExposureCompensation", "FogColor", "FogEnd", "FogStart", "GeographicalLatitude", "GlobalShadows", "OutdoorAmbient", "ShadowSoftness", "Technology", "TimeOfDay"}
+		"Workspace": ["Gravity", "GlobalWind", "FluidForces", "RejectCharacterDeletions", "StreamingEnabled", "Terrain", "FallenPartsDestroyHeight", "AirDensity", "AvatarUnificationMode", "AllowThirdPartySales"],
+		"Lighting": ["Ambient", "Brightness", "ClockTime", "ColorShift_Bottom", "ColorShiftTop", "ExposureCompensation", "FogColor", "FogEnd", "FogStart", "GeographicalLatitude", "GlobalShadows", "OutdoorAmbient", "ShadowSoftness", "Technology", "TimeOfDay"]
 	}
 }
